@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CLearn.dir/main.cpp.o CMakeFiles/CLearn.dir/foo.cpp.o -o CLearn 

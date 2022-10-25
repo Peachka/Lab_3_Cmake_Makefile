@@ -1,4 +1,0 @@
-/home/anastasia/Lab3_AK/CMakeFiles/helloStatic.dir
-/home/anastasia/Lab3_AK/CMakeFiles/CLearn.dir
-/home/anastasia/Lab3_AK/CMakeFiles/edit_cache.dir
-/home/anastasia/Lab3_AK/CMakeFiles/rebuild_cache.dir
